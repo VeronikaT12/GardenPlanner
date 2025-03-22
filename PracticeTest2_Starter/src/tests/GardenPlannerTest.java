@@ -1,10 +1,10 @@
-package test;
+package tests;
 
 import model.*;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class GardenTest {
+public class GardenPlannerTest {
 
 	@Test
 	public void testPlotToStringToggle() {
